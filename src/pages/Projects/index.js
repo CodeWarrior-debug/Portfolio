@@ -4,7 +4,7 @@ import React from "react";
 // import API from "../../utils/API";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
-import Projects2 from "../Projects/support";
+import Projects2 from "./support";
 
 // import Project from "../../components/Project";
 // import 'bootstrap/dist/css/bootstrap.min.css';
